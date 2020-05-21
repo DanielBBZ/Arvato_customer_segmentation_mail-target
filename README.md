@@ -16,6 +16,19 @@ I used the previous analysis to build a machine learning model that predicts whe
 3. Kaggle Competition
 After submitting the prediction to Kaggle, this project work was ranked at 30th.
 
+# Software and Libraries
+
+This project uses Python 3 and is finished by the Jupyter Notebooks.
+The following libraries are used in this project:
+
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* sklearn
+* xgboost
+* lightgbm
+
 ## How the project is organized
 
 The file "ArvatoProjectCombined.ipynb" contains 3 steps together: 
